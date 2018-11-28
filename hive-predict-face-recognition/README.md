@@ -42,7 +42,7 @@ The following demonstrates how to quickly deploy to [Webtask](https://webtask.io
 
 
 
-![screenshot](/screenshots/bill_and_neil.jpg)
+![screenshot](screenshots/bill_and_neil.jpg)
 
 
 
